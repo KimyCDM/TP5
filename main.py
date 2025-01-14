@@ -44,7 +44,7 @@ def drawing():
                                tilt_angle=random.randint(0, 360))
     # Name
     arcade.draw_line(100, 30, 600, 30, arcade.color.BLACK)
-    arcade.draw_text("PIZZA A L'ANANAS (est une crime!)", 100, 30, arcade.color.BLACK, 30)
+    arcade.draw_text("PIZZA A L'ANANAS (est un crime!)", 100, 30, arcade.color.BLACK, 30)
 
 
 def main():
